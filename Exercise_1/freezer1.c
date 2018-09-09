@@ -13,7 +13,7 @@
  */
 int main() 
 {
-  int time = cs1010_read_long();
-  double temp = 4 * pow(time, 2) / (time + 2) - 20;
+  double hour = cs1010_read_double();
+  double temp = 4 * pow(hour, 2) / (hour + 2) - 20;
   cs1010_println_double(temp);
 }
