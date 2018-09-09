@@ -14,6 +14,6 @@
 int main() 
 {
   double hour = cs1010_read_double();
-  double temp = 4 * pow(hour, 2) / (hour + 2) - 20;
+  double temp = 4 * pow(hour, 2) / (hour + 2) - 20; // pow returns a double
   cs1010_println_double(temp);
 }
