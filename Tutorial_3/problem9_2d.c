@@ -12,4 +12,5 @@ long max_of_three(long a, long b, long c)
   } else {
     max = c;
   }
+  return max;
 }
