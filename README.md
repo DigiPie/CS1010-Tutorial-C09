@@ -5,7 +5,7 @@ For tutorial slot [C09], Monday 10 - 12pm.
 
 ### Kahoot
 | Week | Topic | Link |
-| ---: | :--- | ---: |
+| ---: | :--- | :--- |
 | 3 | Unix & Clang | https://play.kahoot.it/#/k/1d92a70e-2d06-4494-bd02-0a8392fedf0b |
 | 4 | Flowchart fun | https://play.kahoot.it/#/k/32e3a7c4-9fb5-42b1-9bc2-78b6139e1d07 |
-| 5 | Mid-terms revision | " " |
+| 5 | Boolean & Assertions | https://play.kahoot.it/#/k/53d7bee2-3224-4860-9cb3-268f0b7ca608 |
