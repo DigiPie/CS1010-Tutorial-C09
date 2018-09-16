@@ -1,4 +1,4 @@
-# (CS1010: Programming Methodology)[https://nus-cs1010.github.io/1819-s1/]
+# [CS1010: Programming Methodology](https://nus-cs1010.github.io/1819-s1/)
 
 ### Introduction
 This repo contains slides, code snippets and solutions prepared for tutorial tutorial slot [C09], Monday 10 - 12pm.
