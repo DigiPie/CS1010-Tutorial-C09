@@ -1,9 +1,3 @@
-/**
- * CS1010 Semester 1 AY18/19
- * Exercise 1: Freezer
- * @file: freezer2.c
- * @author: Sim Yu Jie (Group 09)
- */
 #include <math.h>
 #include "cs1010.h"
 
@@ -14,11 +8,18 @@
  
 int main() 
 {
-  long h = cs1010_read_long();
-  long m = cs1010_read_long();
-  double t;
-  double blub;
-  t = (long)h +(double)m/60;
-  blub = (double)((4*t*t)/(t+2))-20;
-  cs1010_println_double(blub);
+  // Variables
+  double time;
+  double temp;
+
+  // Input
+  long hour = cs1010_read_long();
+  long minute = cs1010_read_long();
+
+  // Calculations
+  time = hour + (double)minute/60;
+  temp = (double)((4*t*t)/(t+2))-20;
+
+  // Output
+  cs1010_println_double(temp);
 }
