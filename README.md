@@ -5,7 +5,7 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 
 ### Tutorial/Lab
 | Week | Tutorial | Lab |
-| ---: | :--- | :--- | :--- |
+| ---: | :--- | :--- |
 | 3 | Computational Problems and Algorithms (Problem Set 1) | UNIX and C Walkthrough |
 | 4 | Functions and Types (PS 3, 4, 5) | Vim, Github Classroom Walkthrough and Exercise 1 |
 | 5 | Arithmetic, Conditional and Logical operators (PS 8, 9) | Review of exercises 1 and 2 | 
