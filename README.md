@@ -5,7 +5,7 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 
 ### Kahoot
 | Week | Tutorial | Lab | Kahoot Quiz |
-| ---: | :--- | :--- | :--- | :--- |
+| ---: | :--- | :--- | :--- |
 | 3 | Computational Problems and Algorithms (Problem Set 1) | UNIX and C Walkthrough | - | 
 | 4 | Functions and Types (PS 3, 4, 5) | Vim, Github Classroom Walkthrough and Exercise 1 | https://play.kahoot.it/#/k/1d92a70e-2d06-4494-bd02-0a8392fedf0b |
 | 5 | Arithmetic, Conditional and Logical operators (PS 8, 9) | Review of exercises 1 and 2 | https://play.kahoot.it/#/k/32e3a7c4-9fb5-42b1-9bc2-78b6139e1d07 |
