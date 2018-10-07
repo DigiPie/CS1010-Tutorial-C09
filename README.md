@@ -27,5 +27,4 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | 5 | Flowchart fun | https://play.kahoot.it/#/k/32e3a7c4-9fb5-42b1-9bc2-78b6139e1d07 |
 | 6 | Boolean & Assertions | https://play.kahoot.it/#/k/53d7bee2-3224-4860-9cb3-268f0b7ca608 |
 | 7 | Mid-term revision | https://play.kahoot.it/#/k/afc591d5-bc40-48d1-a190-4c3d2b987cca |
-| 8 | Call Stack, Pointers and Arrays | ... |
 
