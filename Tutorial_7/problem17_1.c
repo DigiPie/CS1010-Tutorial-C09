@@ -1,11 +1,11 @@
 /*
  * CS1010 Semester 1 AY18/19
  * Problem 17.1
- * https://nus-cs1010.github.io/1819-s1/16-string/index.html
+ * https://nus-cs1010.github.io/1819-s1/17-call-by-reference/index.html#problem-171
  * @file: problem17_1.c
  * @author: Evan Tay (Group C09)
  */
-#include <stdbool.h>
+#include <limits.h>
 #include "cs1010.h"
 
 void find_min_max(long length, long array[length], long *min, long *max)
