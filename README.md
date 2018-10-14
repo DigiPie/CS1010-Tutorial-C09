@@ -12,6 +12,7 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | 6 | Logical assertions and Loops (PS 10, 11) | Review of assignment 1 |
 | 7 | Mid-term test revision | Practical exam revision, review of assignment 2 | 
 | 8 | Call Stack, Pointers and Arrays (PS 13, 14, 15) | Review of assignment 3 |
+| 9 | Strings, Call-by-reference, Heap and Multidimensional Array (PS 16, 17, 18, 19) | Review of assignment 3 |
 
 ### Consultations
 | Week | Link |
