@@ -18,6 +18,7 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | Week | Link |
 | ---: | :--- |
 | 7 | https://doodle.com/poll/43f7yhqdbk94m52f |
+| 10 | https://doodle.com/poll/h22w2uarr6exptig |
 | 12 | ... |
 | Exam Week | ... |
 
