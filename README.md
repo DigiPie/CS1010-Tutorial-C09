@@ -18,6 +18,7 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | Week | Link |
 | ---: | :--- |
 | 7 | https://doodle.com/poll/43f7yhqdbk94m52f |
+| 10 | https://doodle.com/poll/h22w2uarr6exptig |
 | 12 | ... |
 | Exam Week | ... |
 
@@ -28,4 +29,5 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | 5 | Flowchart fun | https://play.kahoot.it/#/k/32e3a7c4-9fb5-42b1-9bc2-78b6139e1d07 |
 | 6 | Boolean & Assertions | https://play.kahoot.it/#/k/53d7bee2-3224-4860-9cb3-268f0b7ca608 |
 | 7 | Mid-term revision | https://play.kahoot.it/#/k/afc591d5-bc40-48d1-a190-4c3d2b987cca |
+| 9 | Recap quiz (Courtesy of Joanne @ https://github.com/joanneong) | https://play.kahoot.it/#/lobby?quizId=49657f85-a41b-499f-95ed-c81bc6f05de1 |
 
