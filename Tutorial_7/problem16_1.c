@@ -57,11 +57,6 @@ bool has_needle_here(char *needle, char *haystack) {
 }
 
 char* string_in_string(char *needle, char *haystack) {
-  if (*needle == '\0')
-  {
-    return NULL;
-  }
-
   char *curr_haystack = haystack;
   // If needle is "gal" (len of 3)
   // and haystack array is "Yo what's up bro." (len of 17)
@@ -105,20 +100,12 @@ void print_str_eq(char* str1, char* str2)
 
 void print_str_in_str(char* str1, char* str2)
 {
-  cs1010_print_string("The string \"");
+  cs1010_print_string("Is \"");
   cs1010_print_string(str1);
-
-  if (string_in_string(str1, str2) == NULL)
-  {
-    cs1010_print_string("\" is NOT in \"");
-  }
-  else
-  {
-    cs1010_print_string("\" is in \"");
-  }
-
+  cs1010_print_string("\" in \"");
   cs1010_print_string(str2);
-  cs1010_println_string("\"");
+  cs1010_print_string("\"? ");
+  cs1010_println_string(string_in_string(str1, str2));
 }
 
 int main()
