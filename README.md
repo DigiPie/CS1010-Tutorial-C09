@@ -15,12 +15,12 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | 9 | Strings, Call-by-reference, Heap and Multidimensional Array (PS 16, 17, 18, 19) | Review of assignment 3 |
 | 10 | C Pre-processing, Assert, Efficiency (PS 20, 21, 22) | Review of assignment 4 |
 | 11 | Binary Search, Bubble Sort, Insertion Sort (PS 24) | Review of assignemnt 5 |
+| 12 | Tower of Hanoi, Permutations (PS 25, 26) | Practical Exam 1 Walkthrough |
 
 ### Consultations
 | Week | Link |
 | ---: | :--- |
 | 7 | https://doodle.com/poll/43f7yhqdbk94m52f |
-| 12 | ... |
 | Exam Week | ... |
 
 ### Kahoot
