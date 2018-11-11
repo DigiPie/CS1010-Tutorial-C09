@@ -14,9 +14,9 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | 8 | Call Stack, Pointers and Arrays (PS 13, 14, 15) | Review of assignment 3 |
 | 9 | Strings, Call-by-reference, Heap and Multidimensional Array (PS 16, 17, 18, 19) | Review of assignment 3 |
 | 10 | C Pre-processing, Assert, Efficiency (PS 20, 21, 22) | Review of assignment 4 |
-| 11 | Binary Search, Bubble Sort, Insertion Sort (PS 24) | Review of assignemnt 5 |
+| 11 | Binary Search, Bubble Sort, Insertion Sort (PS 24) | Review of assignment 5 |
 | 12 | Tower of Hanoi, Permutations (PS 25, 26) | Practical Exam 1 Walkthrough |
-
+| 13 | Final Revision | Review of all assignments |
 ### Consultations
 | Week | Link |
 | ---: | :--- |
@@ -30,5 +30,6 @@ This repo contains slides, code snippets and solutions prepared for tutorial/lab
 | 5 | Flowchart fun | https://play.kahoot.it/#/k/32e3a7c4-9fb5-42b1-9bc2-78b6139e1d07 |
 | 6 | Boolean & Assertions | https://play.kahoot.it/#/k/53d7bee2-3224-4860-9cb3-268f0b7ca608 |
 | 7 | Mid-term revision | https://play.kahoot.it/#/k/afc591d5-bc40-48d1-a190-4c3d2b987cca |
-| 9 | Recap quiz (Courtesy of Joanne @ https://github.com/joanneong) | https://play.kahoot.it/#/lobby?quizId=49657f85-a41b-499f-95ed-c81bc6f05de1 |
+| 9 | Recap quiz (by TA Joanne @ https://github.com/joanneong) | https://play.kahoot.it/#/lobby?quizId=49657f85-a41b-499f-95ed-c81bc6f05de1 |
+| 13 | Final revision | https://play.kahoot.it/#/k/3485f712-07e4-482f-b84e-69a30ef03266 |
 
